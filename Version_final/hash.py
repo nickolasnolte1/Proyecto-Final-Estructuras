@@ -1,6 +1,6 @@
 from LinkedList import Node, LinkedList
 from main import artist_viernes
-
+print ("")
 artist_viernes = {
     "Dua Lipa": "9:30PM",
     "Post Malone": "10:30PM",
